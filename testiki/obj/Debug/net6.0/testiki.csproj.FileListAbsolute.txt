@@ -1,0 +1,15 @@
+C:\Users\Alexandr\Desktop\Дистант\testiki\testiki\bin\Debug\net6.0\testiki.exe
+C:\Users\Alexandr\Desktop\Дистант\testiki\testiki\bin\Debug\net6.0\testiki.deps.json
+C:\Users\Alexandr\Desktop\Дистант\testiki\testiki\bin\Debug\net6.0\testiki.runtimeconfig.json
+C:\Users\Alexandr\Desktop\Дистант\testiki\testiki\bin\Debug\net6.0\testiki.dll
+C:\Users\Alexandr\Desktop\Дистант\testiki\testiki\bin\Debug\net6.0\testiki.pdb
+C:\Users\Alexandr\Desktop\Дистант\testiki\testiki\obj\Debug\net6.0\testiki.csproj.AssemblyReference.cache
+C:\Users\Alexandr\Desktop\Дистант\testiki\testiki\obj\Debug\net6.0\testiki.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alexandr\Desktop\Дистант\testiki\testiki\obj\Debug\net6.0\testiki.AssemblyInfoInputs.cache
+C:\Users\Alexandr\Desktop\Дистант\testiki\testiki\obj\Debug\net6.0\testiki.AssemblyInfo.cs
+C:\Users\Alexandr\Desktop\Дистант\testiki\testiki\obj\Debug\net6.0\testiki.csproj.CoreCompileInputs.cache
+C:\Users\Alexandr\Desktop\Дистант\testiki\testiki\obj\Debug\net6.0\testiki.dll
+C:\Users\Alexandr\Desktop\Дистант\testiki\testiki\obj\Debug\net6.0\refint\testiki.dll
+C:\Users\Alexandr\Desktop\Дистант\testiki\testiki\obj\Debug\net6.0\testiki.pdb
+C:\Users\Alexandr\Desktop\Дистант\testiki\testiki\obj\Debug\net6.0\testiki.genruntimeconfig.cache
+C:\Users\Alexandr\Desktop\Дистант\testiki\testiki\obj\Debug\net6.0\ref\testiki.dll
